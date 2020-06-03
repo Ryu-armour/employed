@@ -1,0 +1,7 @@
+{
+	"child" : "Weapon",
+	"position" : [0.0,0.0,0.0],
+	"size" : 1.0,
+	"speed" : 0.1,
+	"life" : 5.0
+}

@@ -1,0 +1,9 @@
+{
+	"Sword" :
+	{
+		"parent" : "Player",
+		"displacement" : [0.8,1.0,-0.5],
+		"size" : 2.0,
+		"color" : [0.0,0.0,0.2,0.0]
+	}
+}
